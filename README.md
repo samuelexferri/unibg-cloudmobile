@@ -1,10 +1,10 @@
 # Cloud and Mobile Technologies
 
 <p align="center">
-<img src="https://github.com/samuelexferri/unibg-cloudmobile/blob/master/images/cloud-computing.png" width="300">
+<img src="https://github.com/samuelexferri/unibg-cloudmobile/blob/main/images/cloud-computing.png" width="300">
 </p>
 
-Cloud and Mobile Technologiesproject
+Cloud and Mobile Technologies project
 
 ![alt text](https://img.shields.io/badge/Language-Italian-infomrmational?style=for-the-badge)
 
