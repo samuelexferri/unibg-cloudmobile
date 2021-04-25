@@ -13,6 +13,8 @@ Cloud and Mobile Technologies project
 ### Team
 
 -   **Samuele Ferri**: [Site](https://samuelexferri.com), [GitHub](https://github.com/samuelexferri)
+-   **Simone Sudati**
+-   **Steven Gotti**
 
 ## Version
 
