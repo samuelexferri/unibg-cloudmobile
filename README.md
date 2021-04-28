@@ -1,7 +1,7 @@
 # Cloud and Mobile Technologies
 
 <p align="center">
-<img src="https://github.com/samuelexferri/unibg-cloudmobile/blob/main/images/TrEnD.png" width="300">
+<img src="https://github.com/samuelexferri/unibg-cloudmobile/blob/main/images/TrEnD.png" width="500">
 </p>
 
 Cloud and Mobile Technologies project
